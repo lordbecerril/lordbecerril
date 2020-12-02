@@ -3,7 +3,7 @@
 
 <br />
 
-Hi, I'm Eric Becerril-Blas, a Computer Science Student 🚀 from Las Vegas, NV. Currently, I am working on many personal projects. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Eric Becerril-Blas, a Computer Science Student 🚀 from Las Vegas, NV. Currently, I am working on many personal projects. Beside's programming, I enjoy playing guitar :guitar: and traveling :luggage:.
   
 **Talking about Personal Stuffs:**
 
