@@ -7,12 +7,12 @@
 
 <br />
 
-Hi, I'm Eric Becerril-Blas, a Computer Science Student 🚀 from Las Vegas, NV. Currently, I am working on many personal projects. Beside's programming, I enjoy playing guitar :guitar: and traveling :luggage:.
+Hi, I'm Eric Becerril-Blas, a recent graduate from the University of Nevada - Las Vegas with 3 degrees in Computer Science, Mathematics, and Applied Physics. My current interests are in machine learning, virtual reality, and front-end development. Beside's programming, I enjoy playing guitar :guitar: and traveling :luggage:.
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GO and Python; 
+- 🌱 I’m currently learning GO; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@lordbecerril](https://twitter.com/lordbecerril);
 - 📝 [Resume](https://docs.google.com/document/d/11OsL7mx9w__cC_7p6vrvZWjluiKaX0dRVYLEXcjA3YI/edit?usp=sharing)
