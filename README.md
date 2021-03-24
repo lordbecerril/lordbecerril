@@ -6,7 +6,6 @@ Howdy there
   <img align="left" alt="Eric Becerril Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
  </a>
 </p>
-![](https://visitor-badge.glitch.me/badge?page_id=lordbecerril.lordbecerril)
 
 <br />
 
