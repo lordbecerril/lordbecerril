@@ -2,10 +2,7 @@
 Howdy there
 <br/>
 <img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif"> 
-<a href="https://twitter.com/lordbecerril">
-  <img align="left" alt="Eric Becerril Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
- </a>
-</p>
+
 
 <br />
 
