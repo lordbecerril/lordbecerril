@@ -1,5 +1,5 @@
 <p align = "center">
-Howdy Howdy Howdy
+Howdy World!
 <br/>
 <img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif"> 
 
